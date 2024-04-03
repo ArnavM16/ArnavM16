@@ -1,6 +1,5 @@
 Hi there 👋
-I'm a high schooler intrested in blockchain⛓️ and cryptography🔒.
-Currently learning Rust🦀
+I'm tinkering with kaggle notebooks of others
 <!--
 **ArnavM16/ArnavM16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
